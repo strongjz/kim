@@ -37,22 +37,22 @@ replace (
 
 require (
 	github.com/containerd/console v1.0.2
-	github.com/containerd/containerd v1.5.0
+	github.com/containerd/containerd v1.5.13
 	github.com/containerd/typeurl v1.0.2
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/docker-credential-helpers v0.6.3
 	github.com/docker/go-units v0.4.0
 	github.com/gogo/googleapis v1.4.0
 	github.com/gogo/protobuf v1.3.2
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.0
 	github.com/moby/buildkit v0.8.3
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/pkg/errors v0.9.1
 	github.com/rancher/wrangler v0.7.3-0.20201002224307-4303c423125a
 	github.com/rancher/wrangler-cli v0.0.0-20210217230406-95cfa275f52f
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.1.1
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	google.golang.org/grpc v1.33.2
 	k8s.io/api v0.20.6
 	k8s.io/apimachinery v0.20.6
