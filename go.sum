@@ -1057,8 +1057,8 @@ github.com/quobyte/api v0.1.8/go.mod h1:jL7lIHrmqQ7yh05OJ+eEEdHr0u/kmT1Ff9iHd+4H
 github.com/rancher/lasso v0.0.0-20200905045615-7fcb07d6a20b h1:DQLpu44dsR+2qYvg1wyYadk108MWMHUOqvb2z4274Vs=
 github.com/rancher/lasso v0.0.0-20200905045615-7fcb07d6a20b/go.mod h1:OhBBBO1pBwYp0hacWdnvSGOj+XE9yMLOLnaypIlic18=
 github.com/rancher/wrangler v0.6.1/go.mod h1:L4HtjPeX8iqLgsxfJgz+JjKMcX2q3qbRXSeTlC/CSd4=
-github.com/rancher/wrangler v0.7.3-0.20201002224307-4303c423125a h1:rx2kSz+dGj6mcZ3jIXBhXFKTUU5KCBIKQ3PM8ycwWLo=
-github.com/rancher/wrangler v0.7.3-0.20201002224307-4303c423125a/go.mod h1:goezjesEKwMxHLfltdjg9DW0xWV7txQee6vOuSDqXAI=
+github.com/rancher/wrangler v0.7.4-security1 h1:RQR56EZVQ/ow96pK9otKjSqs1jEQeVl2Mb2yElPbkHA=
+github.com/rancher/wrangler v0.7.4-security1/go.mod h1:goezjesEKwMxHLfltdjg9DW0xWV7txQee6vOuSDqXAI=
 github.com/rancher/wrangler-cli v0.0.0-20210217230406-95cfa275f52f h1:hKL84sqJ+iuiN98hCozuetWONwl3n9YmWCuV9w0GtT8=
 github.com/rancher/wrangler-cli v0.0.0-20210217230406-95cfa275f52f/go.mod h1:KxpGNhk/oVL6LCfyxESTD1sb8eXRlUxtkbNm06+7dZU=
 github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
